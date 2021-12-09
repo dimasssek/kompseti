@@ -1,0 +1,5 @@
+﻿  Client.cpp
+C:\Users\DIMA\source\repos\Project2\Project2\Client.cpp(139,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DIMA\source\repos\Project2\Project2\Client.cpp(162,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DIMA\source\repos\Project2\Project2\Client.cpp(204,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\DIMA\source\repos\Project2\Debug\Project2.exe

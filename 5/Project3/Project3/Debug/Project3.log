@@ -1,0 +1,6 @@
+﻿  Server.cpp
+C:\Users\DIMA\source\repos\Project3\Project3\Server.cpp(100,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DIMA\source\repos\Project3\Project3\Server.cpp(145,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DIMA\source\repos\Project3\Project3\Server.cpp(152,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DIMA\source\repos\Project3\Project3\Server.cpp(158,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Project3.vcxproj -> C:\Users\DIMA\source\repos\Project3\Debug\Project3.exe
